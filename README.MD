@@ -1,0 +1,2 @@
+# Abstract
+This repository contains R and Python scripts for conducting factor analysis and various statistical tests. The factor_analysis.R file includes functions for performing factor analysis, while the normality_tests+main_tests.R file includes functions for conducting normality tests and other statistical tests. The plotting_factor_analysis.ipynb and preprocessing_misc.ipynb Jupyter notebooks contain code for visualizing the results of the factor analysis and for preprocessing data, respectively.
